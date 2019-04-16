@@ -1,4 +1,2 @@
 # Unified-EEG-reference-rREST
-Unified Bayesian Estimator of EEG Reference at Infinity: rREST (Regularized Reference Electrode Standardization Technique)
-Article: https://www.frontiersin.org/articles/10.3389/fnins.2018.00297/
-Please cite doi: 10.3389/fnins.2018.00297
+When you use these routinues, please cite: Hu, Shiang, Dezhong Yao, and Pedro A. Valdes-Sosa. 2018. “Unified Bayesian Estimator of EEG Reference at Infinity: RREST (Regularized Reference Electrode Standardization Technique).” Frontiers in Neuroscience 12 (May). https://doi.org/10.3389/fnins.2018.00297.
