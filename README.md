@@ -1,7 +1,5 @@
 # A repository of Unified-EEG-reference-rREST
 
-<img src="https://github.com/ShiangHu/Unified-EEG-reference-rREST/blob/master/rREST%202017/panda.jpg" width="400" align='center'>
-
 1. How to apply rREST
 
     Use rREST_core and sample data
