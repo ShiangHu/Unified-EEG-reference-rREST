@@ -1,11 +1,14 @@
 # A repository of Unified-EEG-reference-rREST
 
 1. How to apply rREST
-Use rREST_core and sample data
-Run ./sample data/Main_REST4Giorgio.m
+
+    Use rREST_core and sample data
+    
+    Run ./sample data/Main_REST4Giorgio.m
 
 2. How to apply unipolar reference
-Use unipolar_ref
+
+    Use unipolar_ref
 
 Papers:
 1) Hu, S., Lai, Y., Valdes-Sosa, P. A., Bringas-Vega, M. L., & Yao, D. (2018). How do reference montage and electrodes setup affect the measured scalp EEG potentials?. Journal of neural engineering, 15(2), 026013. https://iopscience.iop.org/article/10.1088/1741-2552/aaa13f
