@@ -1,5 +1,6 @@
-# A repository of Unified-EEG-reference-rREST 
-<img src="https://github.com/ShiangHu/Unified-EEG-reference-rREST/blob/master/rREST%202017/head.jpg" width="150" align='left'>
+# A repository of Unified-EEG-reference-rREST
+
+<img src="https://github.com/ShiangHu/Unified-EEG-reference-rREST/blob/master/rREST%202017/head.jpg" width="150" align='right'>
 
 ## How to apply rREST
 
