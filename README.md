@@ -1,6 +1,6 @@
 # A repository of Unified-EEG-reference-rREST
 
-<td class="height" style="text-align: center;>
+<td class="height" style="text-align: center;">
 <img src="https://github.com/ShiangHu/Unified-EEG-reference-rREST/blob/master/rREST%202017/panda.jpg" width="400" position='middle'>
 
 1. How to apply rREST
