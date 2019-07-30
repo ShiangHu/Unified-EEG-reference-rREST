@@ -2,13 +2,13 @@
 
 1. How to apply rREST
 
-    Use rREST_core and sample data
+    Use [rREST_core](https://github.com/ShiangHu/Unified-EEG-reference-rREST/tree/master/rREST_core) and [sample data](https://github.com/ShiangHu/Unified-EEG-reference-rREST/tree/master/sample%20data)
     
-    Run ./sample data/Main_REST4Giorgio.m
+    Run [Main_REST4Giorgio.m](https://github.com/ShiangHu/Unified-EEG-reference-rREST/blob/master/sample%20data/Main_REST4Giorgio.m)
 
 2. How to apply unipolar reference
 
-    Use unipolar_ref
+    Use [unipolar_ref](https://github.com/ShiangHu/Unified-EEG-reference-rREST/tree/master/unipolar_ref)
 
 <img src="https://github.com/ShiangHu/Unified-EEG-reference-rREST/blob/master/rREST%202017/head.jpg" width="150" align='right'>
 
