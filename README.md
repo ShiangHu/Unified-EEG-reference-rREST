@@ -1,18 +1,16 @@
 # A repository of Unified-EEG-reference-rREST
+<img src="https://github.com/ShiangHu/Unified-EEG-reference-rREST/blob/master/rREST%202017/head.jpg" width="150" align='middle'>
 
 ## How to apply rREST
 
-     Download and unzip to your work directory
-
-     Use [rREST_core](https://github.com/ShiangHu/Unified-EEG-reference-rREST/tree/master/rREST_core) and [sample data](https://github.com/ShiangHu/Unified-EEG-reference-rREST/tree/master/sample%20data)
-    
-     Run [Main_REST4Giorgio.m](https://github.com/ShiangHu/Unified-EEG-reference-rREST/blob/master/sample%20data/Main_REST4Giorgio.m)
+   Download and unzip to your work directory
+   
+   Use [rREST_core](https://github.com/ShiangHu/Unified-EEG-reference-rREST/tree/master/rREST_core) and [sample data](https://github.com/ShiangHu/Unified-EEG-reference-rREST/tree/master/sample%20data)
+   
+   Run [Main_REST4Giorgio.m](https://github.com/ShiangHu/Unified-EEG-reference-rREST/blob/master/sample%20data/Main_REST4Giorgio.m)
 
 ## How to apply unipolar reference
-
-     Use [unipolar_ref](https://github.com/ShiangHu/Unified-EEG-reference-rREST/tree/master/unipolar_ref)
-
-<img src="https://github.com/ShiangHu/Unified-EEG-reference-rREST/blob/master/rREST%202017/head.jpg" width="150" align='right'>
+   Use [unipolar_ref](https://github.com/ShiangHu/Unified-EEG-reference-rREST/tree/master/unipolar_ref)
 
 ## Publications
 1) Hu, S., Yao, D., & Valdes-Sosa, P. A. (2018). [Unified Bayesian estimator of EEG reference at infinity: rREST (regularized Reference Electrode Standardization Technique)](https://doi.org/10.3389/fnins.2018.00297)
