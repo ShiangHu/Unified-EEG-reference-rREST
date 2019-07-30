@@ -1,5 +1,7 @@
 # A repository of Unified-EEG-reference-rREST
 
+# Download and unzip to your work directory
+
 1. How to apply rREST
 
     Use [rREST_core](https://github.com/ShiangHu/Unified-EEG-reference-rREST/tree/master/rREST_core) and [sample data](https://github.com/ShiangHu/Unified-EEG-reference-rREST/tree/master/sample%20data)
