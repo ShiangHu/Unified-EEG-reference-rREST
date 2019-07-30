@@ -9,7 +9,7 @@
    
    Run [Main_REST4Giorgio.m](https://github.com/ShiangHu/Unified-EEG-reference-rREST/blob/master/sample%20data/Main_REST4Giorgio.m)
    
-   For the theory of rREST, see the paper: [Unified Bayesian estimator of EEG reference at infinity: rREST (regularized Reference Electrode Standardization Technique)](https://doi.org/10.3389/fnins.2018.00297)
+   For the theory of rREST, see the paper: [Unified Bayesian estimator of EEG reference at infinity: rREST](https://doi.org/10.3389/fnins.2018.00297)
 
 ## How to apply unipolar reference
    Use [unipolar_ref](https://github.com/ShiangHu/Unified-EEG-reference-rREST/tree/master/unipolar_ref) and see the paublished: [The statistics of EEG unipolar references](https://link.springer.com/article/10.1007/s10548-019-00706-y)
