@@ -1,6 +1,7 @@
 # A repository of Unified-EEG-reference-rREST
 
-<img src="https://github.com/ShiangHu/Unified-EEG-reference-rREST/blob/master/rREST%202017/panda.jpg" width="500" position='middle'>
+<td class="height" style="text-align: center;>
+<img src="https://github.com/ShiangHu/Unified-EEG-reference-rREST/blob/master/rREST%202017/panda.jpg" width="400" position='middle'>
 
 1. How to apply rREST
 
@@ -12,7 +13,7 @@
 
     Use unipolar_ref
 
-<img src="https://github.com/ShiangHu/Unified-EEG-reference-rREST/blob/master/rREST%202017/head.jpg" width="200">
+<img src="https://github.com/ShiangHu/Unified-EEG-reference-rREST/blob/master/rREST%202017/head.jpg" width="150">
 
 Papers:
 1) Hu, S., Lai, Y., Valdes-Sosa, P. A., Bringas-Vega, M. L., & Yao, D. (2018). [How do reference montage and electrodes setup affect the measured scalp EEG potentials?](https://iopscience.iop.org/article/10.1088/1741-2552/aaa13f)
