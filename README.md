@@ -20,6 +20,10 @@
    
    eegpath: to the folder [sample data](https://github.com/ShiangHu/Unified-EEG-reference-rREST/tree/master/sample%20data)
    
+   Optional
+   
+   eegname and lfname: file name of your personal data
+   
 ### Step3 applying
 
    Run [Main_REST4Giorgio.m](https://github.com/ShiangHu/Unified-EEG-reference-rREST/blob/master/sample%20data/Main_REST4Giorgio.m), then You will get the converted data file under the current folder
