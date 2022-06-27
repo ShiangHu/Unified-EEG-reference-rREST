@@ -4,7 +4,7 @@
 
 ## How to apply rREST
 
-### Step1 download
+### Step1 Download
 
    Download matlab and [eeglab](https://sccn.ucsd.edu/eeglab/download.php) Toolbox
    
@@ -24,7 +24,7 @@
    
    eegname and lfname: file name of your personal data
    
-### Step3 applying
+### Step3 Applying
 
    Run [Main_REST4Giorgio.m](https://github.com/ShiangHu/Unified-EEG-reference-rREST/blob/master/sample%20data/Main_REST4Giorgio.m), then You will get the converted data file under the current folder
    
